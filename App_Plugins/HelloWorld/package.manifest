@@ -1,7 +1,7 @@
 ﻿{
     "javascript": [
-        "~/App_Plugins/HelloWorld/Scripts/HelloWorld.js",
-        "~/App_Plugins/HelloWorld/Scripts/Directives.js"
+        "~/App_Plugins/HelloWorld/Scripts/Directives.js",
+        "~/App_Plugins/HelloWorld/Scripts/HelloWorldController.js"
     ],
     "css": [
         "~/App_Plugins/HelloWorld/Styles/HelloWorld.css"
