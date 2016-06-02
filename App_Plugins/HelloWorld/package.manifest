@@ -1,0 +1,8 @@
+﻿{
+    "javascript": [
+        "~/App_Plugins/HelloWorld/Scripts/HelloWorld.js"
+    ],
+    "css": [
+        "~/App_Plugins/HelloWorld/Styles/HelloWorld.css"
+    ]
+}
